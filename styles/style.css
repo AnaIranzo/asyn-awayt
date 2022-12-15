@@ -1,0 +1,31 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+img{
+    height: 20vh;
+}
+
+section{
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+#pokevsdog {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
